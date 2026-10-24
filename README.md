@@ -4,9 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7A41D&center=true&vCenter=true&width=650&lines=Backend+Engineer;PHP+%7C+Laravel+%7C+Docker;Building+systems+that+handle+100M%2B+records;Scalable+Systems+%7C+System+Architecture" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DnoteFiend&color=F7A41D&style=flat-square&label=Profile+Views" alt="Profile views" />
-</p>
+
 
 <br>
 
