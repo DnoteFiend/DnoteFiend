@@ -74,9 +74,4 @@ Always open to discussing distributed systems, scaling challenges, and interesti
 
 <br>
 
-## GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DnoteFiend&layout=compact&theme=dracula&langs_count=10" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DnoteFiend&show_icons=true&theme=dracula&include_all_commits=true" />
-</p>
