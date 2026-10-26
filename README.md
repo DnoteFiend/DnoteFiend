@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Devansha Shrestha 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7A41D&center=true&vCenter=true&width=650&lines=Backend+Engineer;PHP+%7C;Building+systems+that+handle+100M%2B+records;Scalable+Systems+%7C+System+Architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7A41D&center=true&vCenter=true&width=650&lines=Backend+Engineer;PHP;Building+systems+that+handle+100M%2B+records;Scalable+Systems+%7C+System+Architecture" alt="Typing SVG" />
 </p>
 
 
